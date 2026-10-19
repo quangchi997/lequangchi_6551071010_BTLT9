@@ -1,0 +1,9 @@
+2026-10-19 11:06:56.722 [INF] Khởi động ứng dụng Quản lý nhà trọ.
+2026-10-19 11:07:35.407 [ERR] Lỗi chưa xử lý trong UI Thread: Đây là ngoại lệ thử nghiệm để kiểm tra tính năng xử lý lỗi toàn cục (Global Exception Handling)!
+System.InvalidOperationException: Đây là ngoại lệ thử nghiệm để kiểm tra tính năng xử lý lỗi toàn cục (Global Exception Handling)!
+   at Cau2_QuanLyNhaTro.FormKhachThue.btnGayLoi_Click(Object sender, EventArgs e) in C:\Users\LENOVO\.gemini\antigravity\scratch\BaiTapChuong11\Cau2_QuanLyNhaTro\FormKhachThue.cs:line 500
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, UInt32 msg, WPARAM wparam, LPARAM lparam)

@@ -1,0 +1,6 @@
+# Exclude local configuration with credentials
+appsettings.Production.json
+appsettings.local.json
+bin/
+obj/
+Logs/

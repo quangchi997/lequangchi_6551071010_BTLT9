@@ -1,0 +1,4 @@
+2026-10-19 11:10:23.956 [INF] Ứng dụng Bán hàng quán trà sữa khởi động.
+2026-10-19 11:10:57.929 [INF] Tạo mã VietQR cho Hóa đơn MaHD = 3, Số tiền = 38000, Ngân hàng = 970436, STK = ******7890
+2026-10-19 11:11:34.292 [INF] Lập hóa đơn thành công: MaHD = 3, Tổng tiền = 38000, Hình thức = Chuyển khoản
+2026-10-19 11:11:44.729 [INF] Ứng dụng Bán hàng quán trà sữa kết thúc.
